@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 django = "~=2.1.0"
+requests = "*"
+selenium = "*"
+"bs4" = "*"
+lxml = "*"
 
 [dev-packages]
 
